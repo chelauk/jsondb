@@ -2,4 +2,4 @@
 mutect_vcfs.txt
 platypus_vcfs.txt
 vcf_list.txt
-__pycache__/*
+_pycache__/bam_module.cpython-39.pyc
