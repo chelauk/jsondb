@@ -2,7 +2,7 @@
 import json
 import vcf_module
 import bam_module
-import vcf_module
+import rds_module
 import argparse
 import argparse
 
